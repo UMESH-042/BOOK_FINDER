@@ -23,7 +23,6 @@ BookFinder is a modern web application that allows users to search and explore m
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
 - **API**: Open Library API
-- **SEO**: React Helmet Async
 - **Build Tool**: Vite
 - **Package Manager**: npm
 
