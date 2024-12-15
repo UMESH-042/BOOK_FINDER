@@ -15,7 +15,6 @@ BookFinder is a modern web application that allows users to search and explore m
 - 📱 Fully responsive design
 - 🎨 Beautiful UI with smooth animations
 - 🔄 Loading states and error handling
-- 🌐 SEO optimized
 
 ## 🛠️ Technology Stack
 
