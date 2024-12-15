@@ -83,29 +83,12 @@ BookFinder uses the Open Library API to fetch book data:
 - **useBookDetails**: Handles book and author details fetching
 - **useDebounce**: Implements search input debouncing
 
-## 🌐 SEO
-
-The application is SEO-optimized using React Helmet Async, including:
-- Dynamic page titles and meta descriptions
-- Open Graph tags for social sharing
-- Twitter Card meta tags
-- Canonical URLs
-- Proper heading hierarchy
-
 ## 📱 Responsive Design
 
 BookFinder is fully responsive and works great on:
 - 📱 Mobile devices
 - 💻 Tablets
 - 🖥️ Desktop computers
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
