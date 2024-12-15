@@ -32,8 +32,8 @@ BookFinder is a modern web application that allows users to search and explore m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bookfinder.git
-   cd bookfinder
+   git clone https://github.com/UMESH-042/BOOK_FINDER.git
+   cd BOOK_FINDER
    ```
 
 2. Install dependencies:
